@@ -1,1 +1,4 @@
-
+# alpha-service.yml — dans GitHub
+# ce fichier sera lu par Config Server et transmis à alpha-service au démarrage
+app:
+  message: "Bonjour depuis GitHub Config !"
